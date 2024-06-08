@@ -1,6 +1,8 @@
 
 
 ### Olá, Meu nome é Murilo Medeiros👋
+<h4>Estudante de Tecnologia da Informação</h4>
+<hr>
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ft_medeiros/)
 
@@ -8,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosvdd)](https://github.com/Medeirosvdd)
 
-### Habilidades Técnicas:
+### Tecnologias:
 
 <div style="display: inline_block"><br>
   <img alig="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
