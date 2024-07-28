@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosvdd&hide_progress=true)
 
-### Tecnologias:
+### 🤖 Tecnologias:
 
 <div style="display: inline_block"><br>
   <img alig="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -21,7 +21,12 @@
   <img alig="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
+### 👩‍💻 IDE:
 
-
+<div style="display: inline_block"><br>
+  <img alig="center" alt="Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+  <img alig="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img alig="center" alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</div>
 <!-- [![Blog]()]() -->
 <!-- https://github.com/Medeirosvdd -->
