@@ -11,6 +11,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosvdd)](https://github.com/Medeirosvdd))
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medeirosvdd&hide_progress=true)
+
 ### Tecnologias:
 
 <div style="display: inline_block"><br>
