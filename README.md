@@ -8,6 +8,7 @@ Atualmente, estudo e desenvolvo projetos usando tecnologias como PHP, Java, Java
 
 ## Contato
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-183D2B?style=flat-square&logo=linktree&logoColor=white)](https://murilomedeiros.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-medeiros-745917314/)
 
 ## Tecnologias
