@@ -1,11 +1,13 @@
 # Olá, sou Murilo Medeiros 👋
 
 **Desenvolvedor de Software**  
-🎓 Técnico em Tecnologia da Informação pela ULBRA  
-📚 Graduando em Análise e Desenvolvimento de Sistemas  
+🎓 Técnico em Informática pela ULBRA  
+📚 Graduando em Análise e Desenvolvimento de Sistemas — Uniasselvi (previsão de conclusão: 2029)  
 📍 Brasil
 
-Desenvolvo sistemas, aplicações web e desktop, automações e soluções digitais. Trabalho com Java, JavaScript, PHP, React, HTML, CSS e MySQL, além de outras tecnologias. Tenho interesse em inteligência artificial e em suas aplicações para resolver problemas reais.
+## Sobre
+
+Minha experiência combina atendimento e suporte a usuários, operação de sistemas e desenvolvimento de software. Em rotinas administrativas escolares, trabalhei com o ERP Proesc, matrículas, cadastros e conferência de dados. Em projetos práticos, participei de equipes com Scrum no desenvolvimento de aplicações web com PHP e MySQL e de interfaces responsivas com React. Tenho interesse em inteligência artificial e em suas aplicações para resolver problemas reais.
 
 ## Portfólio e contato
 
