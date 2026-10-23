@@ -1,10 +1,10 @@
 # Olá! Eu sou Murilo Medeiros 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Tenho interesse em desenvolvimento de sistemas e aplicações web  
+🎓 Formado como Técnico em Tecnologia da Informação pela ULBRA  
+📚 Estudante de Análise e Desenvolvimento de Sistemas  
 📍 Brasil
 
-Atualmente, estudo e desenvolvo projetos usando tecnologias como PHP, Java, JavaScript e React. Também tenho experiência com MySQL, automações no n8n e projetos com Arduino.
+Tenho conhecimentos em Java, JavaScript, PHP, React, HTML, CSS e MySQL, entre outras tecnologias. Tenho interesse em inteligência artificial e em suas aplicações para resolver problemas reais.
 
 ## Contato
 
