@@ -1,10 +1,9 @@
-# Olá! Eu sou Murilo Medeiros 👋
+# Murilo Medeiros
 
-🎓 Formado como Técnico em Tecnologia da Informação pela ULBRA  
-📚 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Brasil
+**Desenvolvedor de Software**  
+Técnico em Tecnologia da Informação pela ULBRA | Graduando em Análise e Desenvolvimento de Sistemas
 
-Tenho conhecimentos em Java, JavaScript, PHP, React, HTML, CSS e MySQL, entre outras tecnologias. Tenho interesse em inteligência artificial e em suas aplicações para resolver problemas reais.
+Desenvolvo projetos com Java, JavaScript, PHP, React, HTML, CSS e MySQL. Tenho interesse em inteligência artificial e em suas aplicações para resolver problemas reais.
 
 ## Contato
 
@@ -13,21 +12,18 @@ Tenho conhecimentos em Java, JavaScript, PHP, React, HTML, CSS e MySQL, entre ou
 
 ## Tecnologias
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ## Ferramentas
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ## Estatísticas do GitHub
 
